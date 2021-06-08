@@ -5,3 +5,4 @@ Maestría Ciencia Datos y Analitica
 - Santiago Ruiz Ramirez
 - Andrés Sánchez Castrillón
 - Camilo Garatejo Vargas
+- Sebastian López Valencia
